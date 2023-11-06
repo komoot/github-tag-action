@@ -1,5 +1,8 @@
 # github-tag-action
 
+> **IMPORTANT**: This is a fork of [anothrNick/github-tag-action](https://github.com/anothrNick/github-tag-action) to keep 
+> the code fixed and thus allows to user `@master` directly.
+
 A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version.
 
 [![Build Status](https://github.com/anothrNick/github-tag-action/workflows/Bump%20version/badge.svg)](https://github.com/anothrNick/github-tag-action/workflows/Bump%20version/badge.svg)
